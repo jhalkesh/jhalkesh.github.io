@@ -192,7 +192,7 @@
     }
     .navbar{
         height:280px;
-        transition: all 0.7s ease-out;
+        transition: all 0.1s ease-out;
     }
     .h-nav{
         height: 40px;
